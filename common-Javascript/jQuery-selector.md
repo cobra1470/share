@@ -1,3 +1,4 @@
+`
 #id	$("#lastname")	id="lastname" 的元素
 .class	$(".intro")	所有 class="intro" 的元素
 element	$("p")	所有 <p> 元素
@@ -15,3 +16,4 @@ element	$("p")	所有 <p> 元素
 :disabled	$(":disabled")	所有禁用的 input 元素
 :selected	$(":selected")	所有被选取的 input 元素
 :checked	$(":checked")	所有被选中的 input 元素
+`
