@@ -1,5 +1,5 @@
 
-#id	$("#lastname")	id="lastname" 的元素
+#id	               $("#lastname")	id="lastname" 的元素
 .class	            $(".intro")	所有 class="intro" 的元素
 element	           $("p")	所有 <p> 元素
  	 	 
